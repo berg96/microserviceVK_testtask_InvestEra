@@ -35,7 +35,9 @@ git clone https://github.com/berg96/microserviceVK_testtask_InvestEra.git
 cd product_sales_testtask_InCodeWeTrust
 ```
 Создать файл .env с актуальными переменными окружения по примеру .env_example
+
 Для получения client_id нужно зарегистрировать своё приложение по [ссылке](https://dev.vk.com/ru/api/getting-started)
+
 Запустить Docker compose:
 ```
 docker compose up -d
